@@ -1,3 +1,4 @@
+print("hello")
 products = {
   "Cortex": ["What Cortex product are you interested in?", "Are you looking to purchase?", "Are you troubleshooting?"],
   "Strata": ["Do you own NGFWs today?", "Are you deployed on prem or in the cloud?"],
